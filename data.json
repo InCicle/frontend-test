@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": 20,
+            "title": "Geral dispensado para curtir o feriado",
+            "type": "release",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
+            "date": "15 OUT",
+            "files": [
+                {
+                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
+                }
+            ],
+            "common": {}
+        },
+        {
+            "id": 21,
+            "title": "Almoço do dia do desenvolvedor",
+            "type": "event",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
+            "date": "15 OUT",
+            "files": [
+                {
+                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
+                }
+            ],
+            "common": {
+                "invited_people": [
+                    {
+                        "name": "Kenedy Morais",
+                        "username": "eitatwo",
+                        "avatar": "https://avatars.githubusercontent.com/u/10067450?s=120&v=4",
+                        "confirmed": false
+                    }
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "title": "Geral dispensado para curtir o feriado",
+            "type": "release",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
+            "date": "15 OUT",
+            "files": [
+                {
+                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
+                }
+            ],
+            "common": {}
+        },
+        {
+            "id": 21,
+            "title": "Almoço do dia do desenvolvedor",
+            "type": "event",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
+            "date": "15 OUT",
+            "files": [
+                {
+                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
+                }
+            ],
+            "common": {
+                "invited_people": [
+                    {
+                        "name": "Kenedy Morais",
+                        "username": "eitatwo",
+                        "avatar": "https://avatars.githubusercontent.com/u/10067450?s=120&v=4",
+                        "confirmed": false
+                    }
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "title": "Geral dispensado para curtir o feriado",
+            "type": "release",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
+            "date": "15 OUT",
+            "files": [
+                {
+                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
+                }
+            ],
+            "common": {}
+        },
+        {
+            "id": 21,
+            "title": "Almoço do dia do desenvolvedor",
+            "type": "event",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
+            "date": "15 OUT",
+            "files": [
+                {
+                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
+                }
+            ],
+            "common": {
+                "invited_people": [
+                    {
+                        "name": "Kenedy Morais",
+                        "username": "eitatwo",
+                        "avatar": "https://avatars.githubusercontent.com/u/10067450?s=120&v=4",
+                        "confirmed": false
+                    }
+                ]
+            }
+        }
+    ]
+}
