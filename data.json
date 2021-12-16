@@ -1,108 +1,111 @@
 {
     "data": [
         {
-            "id": 20,
-            "title": "Geral dispensado para curtir o feriado",
-            "type": "release",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
-            "date": "15 OUT",
-            "files": [
+            "id": 1,
+            "title": "Apoiar a atlética dos integrantes do nosso time",
+            "type": "event",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
+            "info": {
+                "date": "13 OUT",
+                "place": "UFAC"
+            },
+            "file": {
+                "url": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/1.jpg"
+            },
+            "invited_people": [
                 {
-                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
+                    "id": 1,
+                    "name": "Kenedy Morais",
+                    "confirmed_presence": true,
+                    "avatar": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/kenedy.jpg",
+                    "username": "kenedymorais"
+                },
+                {
+                    "id": 2,
+                    "name": "Jardeson Eduardo",
+                    "confirmed_presence": false,
+                    "avatar": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/jardesson.jpg",
+                    "username": "kenedymorais"
+                },
+                {
+                    "id": 2,
+                    "name": "Patricia Santos",
+                    "confirmed_presence": true,
+                    "avatar": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/patricia.jpg",
+                    "username": "kenedymorais"
                 }
-            ],
-            "common": {}
+            ]
         },
         {
-            "id": 21,
-            "title": "Almoço do dia do desenvolvedor",
-            "type": "event",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
-            "date": "15 OUT",
-            "files": [
-                {
-                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
-                }
-            ],
-            "common": {
-                "invited_people": [
-                    {
-                        "name": "Kenedy Morais",
-                        "username": "eitatwo",
-                        "avatar": "https://avatars.githubusercontent.com/u/10067450?s=120&v=4",
-                        "confirmed": false
-                    }
-                ]
+            "id": 2,
+            "title": "Dia do Introoper",
+            "type": "release",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
+            "info": {
+                "date": "15 OUT",
+                "place": "Sede InCicle"
+            },
+            "file": {
+                "url": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/2.jpg"
             }
         },
         {
-            "id": 20,
-            "title": "Geral dispensado para curtir o feriado",
-            "type": "release",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
-            "date": "15 OUT",
-            "files": [
-                {
-                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
-                }
-            ],
-            "common": {}
-        },
-        {
-            "id": 21,
-            "title": "Almoço do dia do desenvolvedor",
-            "type": "event",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
-            "date": "15 OUT",
-            "files": [
-                {
-                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
-                }
-            ],
-            "common": {
-                "invited_people": [
-                    {
-                        "name": "Kenedy Morais",
-                        "username": "eitatwo",
-                        "avatar": "https://avatars.githubusercontent.com/u/10067450?s=120&v=4",
-                        "confirmed": false
-                    }
-                ]
+            "id": 3,
+            "title": "Você sabe o que é endomarketing?",
+            "type": "publication",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
+            "info": {
+                "date": "15 OUT"
+            },
+            "file": {
+                "url": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/3.jpg"
             }
         },
         {
-            "id": 20,
-            "title": "Geral dispensado para curtir o feriado",
-            "type": "release",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
-            "date": "15 OUT",
-            "files": [
+            "id": 4,
+            "title": "Apresentação do projeto para novos colaboradores",
+            "type": "event",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
+            "info": {
+                "date": "13 OUT",
+                "place": "Google Meet"
+            },
+            "file": {
+                "url": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/4.jpg"
+            },
+            "invited_people": [
                 {
-                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
+                    "id": 2,
+                    "name": "Patricia Santos",
+                    "confirmed_presence": true,
+                    "avatar": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/patricia.jpg",
+                    "username": "kenedymorais"
                 }
-            ],
-            "common": {}
+            ]
         },
         {
-            "id": 21,
-            "title": "Almoço do dia do desenvolvedor",
-            "type": "event",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidindut...",
-            "date": "15 OUT",
-            "files": [
-                {
-                    "file": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg"
-                }
-            ],
-            "common": {
-                "invited_people": [
-                    {
-                        "name": "Kenedy Morais",
-                        "username": "eitatwo",
-                        "avatar": "https://avatars.githubusercontent.com/u/10067450?s=120&v=4",
-                        "confirmed": false
-                    }
-                ]
+            "id": 5,
+            "title": "Dia do Introoper",
+            "type": "release",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
+            "info": {
+                "date": "15 OUT",
+                "place": "Sede InCicle"
+            },
+            "file": {
+                "url": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/5.jpg"
+            }
+        },
+        {
+            "id": 6,
+            "title": "Você sabe o que é endomarketing?",
+            "type": "publication",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
+            "info": {
+                "date": "15 OUT"
+            },
+            "file": {
+                "url": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/6.jpg"
             }
         }
     ]
