@@ -1,16 +1,59 @@
 {
     "data": [
         {
-            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/7.jpg"
-        },
-        {
-            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/8.jpg"
-        },
-        {
-            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/9.jpg"
-        },
-        {
-            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/10.jpg"
+            "boards": [
+                {
+                    "title": "Demonstrativo comercial",
+                    "resume_files": [
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/7.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/8.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/9.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/10.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Resultado de desempenho",
+                    "resume_files": [
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/7.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/8.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/9.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/10.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Comparativo periódico",
+                    "resume_files": [
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/7.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/8.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/9.jpg"
+                        },
+                        {
+                            "file": "https://static-incicle.s3.us-east-1.amazonaws.com/front-test-files/10.jpg"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
