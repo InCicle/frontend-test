@@ -27,7 +27,7 @@ Esse teste consiste em conhecermos um pouco o seu conhecimento na área de desen
 3. Construa o projeto em uma branch separada e ao concluir, faça e aprove uma Pull Request à main com o resultado do seu teste.
 
 ### Envio
-Não abra Pull Request, crie o seu próprio repositório público e envie o link para <recrutamento@incicle.com> com o título **Teste Frontend InCicle** e informe seu nome completo no corpo do e-mail
+Não abra Pull Request, crie o seu próprio repositório público e envie o link para <kenedymorais.dev@gmail.com> com o título **Teste Frontend InCicle** e informe seu nome completo no corpo do e-mail
 
 ### O que será avaliado
   * Capacidade de layoutzação (mantenha-se fiel ao layout proposto);
